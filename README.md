@@ -1,11 +1,11 @@
 # Resources
 
 Online Courses
-https://www.udemy.com
-https://www.coursera.org/
-https://www.edx.org/
-https://www.freecodecamp.org/
-https://www.hacksplaining.com/lessons
+1. https://www.udemy.com
+2. https://www.coursera.org/
+3. https://www.edx.org/
+4. https://www.freecodecamp.org/
+5. https://www.hacksplaining.com/lessons
 
 
 
