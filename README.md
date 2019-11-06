@@ -35,13 +35,13 @@ Blogs
 [NullByte](https://null-byte.wonderhowto.com/)
 
 Cyber Security News
-https://threatpost.com/
-https://cyware.com/cyber-security-news-articles
-https://www.wired.com/tag/cybersecurity-hacking/
-https://www.securitymagazine.com/topics/2236-cyber-security-news
-https://www.bbc.co.uk/news/topics/cz4pr2gd85qt/cyber-security
-https://thecyberwire.com/
-https://www.cnet.com/topics/security/
+1. https://threatpost.com/
+2. https://cyware.com/cyber-security-news-articles
+3. https://www.wired.com/tag/cybersecurity-hacking/
+4. https://www.securitymagazine.com/topics/2236-cyber-security-news
+5. https://www.bbc.co.uk/news/topics/cz4pr2gd85qt/cyber-security
+6. https://thecyberwire.com/
+7. https://www.cnet.com/topics/security/
 
 
 
