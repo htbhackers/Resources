@@ -1,4 +1,4 @@
-HTB-Chicago Meetup
+#HTB-Chicago Meetup
 
 Hack The Box is a pentesting platform for those looking to improve their ethical hacking/penetration testing skills or for those who are looking for a local pen testing community. For more information on hack the box, check out https://www.hackthebox.eu/
 
